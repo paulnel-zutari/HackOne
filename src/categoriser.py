@@ -1,0 +1,1 @@
+class Categoriser:    def evaluate(self, width, height):        pass
